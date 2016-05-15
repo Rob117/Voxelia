@@ -1,0 +1,59 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3054 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\Rewired_Core.dll (this message is harmless)
+Loading H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\Rewired_Core.dll into Unity Child Domain
+Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\Rewired_Windows_Lib.dll (this message is harmless)
+Loading H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\Rewired_Windows_Lib.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.722577 ms
+d3d11: failed to create staging 2D texture w=16384 h=16384 d3dfmt=28 [8007000e]
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 287c -> priority: 1 
+  Thread -> id: 3be8 -> priority: 1 
+UnloadTime: 0.385244 ms
+Non platform assembly: data-0EF60020 (this message is harmless)
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/data-0EF60020.dll
+Non platform assembly: data-0EFC2010 (this message is harmless)
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/data-0EFC2010.dll
+Non platform assembly: data-2A8F1020 (this message is harmless)
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/data-2A8F1020.dll
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/steam_api
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/.\steam_api
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/steam_api
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/libsteam_api
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/.\libsteam_api
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/libsteam_api
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/steam_api
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/.\steam_api
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/steam_api
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/libsteam_api
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/.\libsteam_api
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/libsteam_api
+Rewired: Searching for compatible XInput library...
+Rewired: Found Xinput1_3.dll.
+Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\System.Xml.dll (this message is harmless)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 497.
+Total: 10.112667 ms (FindLiveObjects: 0.038622 ms CreateObjectMapping: 0.035688 ms MarkObjects: 10.013912 ms  DeleteObjects: 0.017111 ms)
+

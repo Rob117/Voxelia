@@ -1,0 +1,33 @@
+I wanted to write a project to become better at low-level rendering, manipulating data outside of monobehaviours, and writing custom texture loaders.
+
+This is that project. Please note, this is only the code and final project. Because the project contains assets that I purchased from the store, that I do not have the right to redistribute, I cannot share the entire project.
+
+This is a Minecraft clone. I started it from a tutorial online : http://studentgamedev.blogspot.jp/p/unity3d-c-voxel-and-procedural-mesh.html. After I completed the tutorial, I started to make rendering optimizations (render block order is based on distance, etc.).
+
+I wrote a custom texture loader, much like the one you see in minecraft. On load, it checks file names (dirt_top, grass_side, etc.) from the texture folder and loads them into memory to be used in the game. Loading new textures is as simple as swapping out files.
+
+The control scheme is listed at the bottom.
+
+自分の成長のため、かなりローレベルな描画ごこレンダリング、Unityフレームワーク以外なデーター保存、そしてカスタムテクスチャーローディングと取り組みたかったです。
+
+注意：このプロジェクトに入ってるアセットを配布する権利をお持ちではないから、コードとファイナルビルドだけが入っています。そして、別のgit repo を作らないといけなかったため、コミット歴史もありません。
+
+このゲームはMinecraftの基本的なクローンです。オンラインのチュートリアルから始まりました。http://studentgamedev.blogspot.jp/p/unity3d-c-voxel-and-procedural-mesh.html　
+
+チュートリアルの文が終わってから、いろいろな最適化を書きました。まず。世界のロードオーダーがかなりランダムだったので、プレイヤーのところからちゃんとロードするようにした。それに、カスタムテクスチャーローダーを書きました。ファイルの入り替えだけでブロックのテクスチャーがかわる。Unityフレームワークに入っているツールがこの場合であまり使えなかったので、自分のを書きました。
+以下に、コントロールが記載されています。
+
+Controls/コントロール:
+
+Xbox Controller (Xbox 1) / Xbox 1 コントローラ:
+
+Left Joystick - Move
+Right Joystick - Aim
+Left Bumper - Remove block / ブロック取り消し
+Right Bumper - Place block / ブロックを置く
+
+Keyboard / キーボード
+WSAD - Move
+Mouse - Aim
+Q - Remove block / ブロック取り消し
+E - Place block / ブロックを置く
