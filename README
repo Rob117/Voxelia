@@ -8,7 +8,7 @@ I wrote a custom texture loader, much like the one you see in minecraft. On load
 
 The control scheme is listed at the bottom.
 
-自分の成長のため、かなりローレベルな描画ごこレンダリング、Unityフレームワーク以外なデーター保存、そしてカスタムテクスチャーローディングと取り組みたかったです。
+自分の成長のため、かなりローレベルな描画ごとレンダリング、Unityフレームワーク以外なデーター保存、そしてカスタムテクスチャーローディングと取り組みたかったです。
 
 注意：このプロジェクトに入ってるアセットを配布する権利をお持ちではないから、コードとファイナルビルドだけが入っています。そして、別のgit repo を作らないといけなかったため、コミット歴史もありません。
 

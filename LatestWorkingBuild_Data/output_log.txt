@@ -18,26 +18,26 @@ Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Man
 Loading H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\Rewired_Core.dll into Unity Child Domain
 Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\Rewired_Windows_Lib.dll (this message is harmless)
 Loading H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\Rewired_Windows_Lib.dll into Unity Child Domain
-- Completed reload, in  0.067 seconds
+- Completed reload, in  0.074 seconds
 Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.722577 ms
+UnloadTime: 0.720133 ms
 d3d11: failed to create staging 2D texture w=16384 h=16384 d3dfmt=28 [8007000e]
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 287c -> priority: 1 
-  Thread -> id: 3be8 -> priority: 1 
-UnloadTime: 0.385244 ms
-Non platform assembly: data-0EF60020 (this message is harmless)
-Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/data-0EF60020.dll
-Non platform assembly: data-0EFC2010 (this message is harmless)
-Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/data-0EFC2010.dll
-Non platform assembly: data-2A8F1020 (this message is harmless)
-Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/data-2A8F1020.dll
+  Thread -> id: 321c -> priority: 1 
+  Thread -> id: 28f8 -> priority: 1 
+UnloadTime: 0.366666 ms
+Non platform assembly: data-0EEBB1D0 (this message is harmless)
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/data-0EEBB1D0.dll
+Non platform assembly: data-0EE9F878 (this message is harmless)
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/data-0EE9F878.dll
+Non platform assembly: data-298C1020 (this message is harmless)
+Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/data-298C1020.dll
 Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/steam_api
 Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/.\steam_api
 Fallback handler could not load library H:/DevProjects/VoxeliaDemoProject/LatestWorkingBuild_Data/Mono/steam_api
@@ -55,5 +55,5 @@ Rewired: Found Xinput1_3.dll.
 Platform assembly: H:\DevProjects\VoxeliaDemoProject\LatestWorkingBuild_Data\Managed\System.Xml.dll (this message is harmless)
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 497.
-Total: 10.112667 ms (FindLiveObjects: 0.038622 ms CreateObjectMapping: 0.035688 ms MarkObjects: 10.013912 ms  DeleteObjects: 0.017111 ms)
+Total: 9.599823 ms (FindLiveObjects: 0.024444 ms CreateObjectMapping: 0.028355 ms MarkObjects: 9.520134 ms  DeleteObjects: 0.021022 ms)
 
